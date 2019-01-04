@@ -24,3 +24,4 @@ print(b)
 
 for i in b:
     print(i)
+    
