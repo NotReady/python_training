@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc82f1b0-94d9-4215-87c6-ab9baa2430eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15.pt_scope.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.args_and_return.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,24 +20,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3811" />
-          <entry key="txt" value="40" />
+          <entry key="py" value="3839" />
+          <entry key="txt" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="3811" />
+          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="Python" value="3839" />
         </counts>
       </usages-collector>
     </session>
@@ -94,15 +93,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15.pt_scope.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="225">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
                 <marker date="1546571443000" expanded="true" signature="150:155" ph="..." />
                 <marker date="1546571443000" expanded="true" signature="202:244" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16.args_and_return.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -130,15 +138,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09.pt_tuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -174,6 +173,7 @@
         <option value="$PROJECT_DIR$/13.branch_and_loop.py" />
         <option value="$PROJECT_DIR$/14.pt_function.py" />
         <option value="$PROJECT_DIR$/15.pt_scope.py" />
+        <option value="$PROJECT_DIR$/16.args_and_return.py" />
       </list>
     </option>
   </component>
@@ -232,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15.pt_scope">
+  <component name="RunManager" selected="Python.16.args_and_return">
     <configuration name="01.hello_world" type="PythonConfigurationType" factoryName="Python">
       <module name="python3_trainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -338,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pt_for" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16.args_and_return" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_trainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,7 +350,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pt_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16.args_and_return.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,19 +361,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.01.hello_world" />
-      <item itemvalue="Python.pt_for" />
       <item itemvalue="Python.12.pt_while" />
       <item itemvalue="Python.13.branch_and_loop" />
       <item itemvalue="Python.14.pt_function" />
       <item itemvalue="Python.15.pt_scope" />
+      <item itemvalue="Python.16.args_and_return" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16.args_and_return" />
         <item itemvalue="Python.15.pt_scope" />
         <item itemvalue="Python.14.pt_function" />
         <item itemvalue="Python.13.branch_and_loop" />
         <item itemvalue="Python.12.pt_while" />
-        <item itemvalue="Python.pt_for" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546571236091</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="変数スコープの追加">
+      <created>1546571458302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546571458302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -442,7 +449,8 @@
     <MESSAGE value="whileを追加" />
     <MESSAGE value="繰り返しと条件分岐の組み合わせ" />
     <MESSAGE value="関数の追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="関数の追加" />
+    <MESSAGE value="変数スコープの追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="変数スコープの追加" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01.hello_world.py">
@@ -556,12 +564,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15.pt_scope.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="225">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
             <marker date="1546571443000" expanded="true" signature="150:155" ph="..." />
             <marker date="1546571443000" expanded="true" signature="202:244" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.args_and_return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
