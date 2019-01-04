@@ -3,9 +3,9 @@
 # ---------------------------------------
 # @note 辞書(ハッシュリスト)
 # - キーの型はなんでもよくて同居可能
-# - 定義　中括弧 variable = {key:value[, key:value]}
-# - 参照　variable[key]
-# - 追加/更新　variable[key] = value
+# - 定義      variable = {key:value[, key:value]}
+# - 参照       variable[key]
+# - 追加/更新   variable[key] = value
 # ---------------------------------------
 
 # 定義{key:value[, key:value]}
