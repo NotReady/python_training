@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc82f1b0-94d9-4215-87c6-ab9baa2430eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/21.class_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.class_initializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memo/tips_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,52 +22,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="26" />
+          <entry key="py" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="26" />
+          <entry key="Python" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5158" />
-          <entry key="txt" value="129" />
+          <entry key="py" value="6442" />
+          <entry key="txt" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="129" />
-          <entry key="Python" value="5158" />
+          <entry key="PLAIN_TEXT" value="144" />
+          <entry key="Python" value="6442" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/13.branch_and_loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14.pt_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="41" />
-              <folding>
-                <marker date="1546571210000" expanded="true" signature="176:181" ph="..." />
-                <marker date="1546571210000" expanded="true" signature="220:225" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15.pt_scope.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,14 +126,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/21.class_inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="41" />
               <folding>
                 <marker date="1546573922000" expanded="true" signature="167:172" ph="..." />
                 <marker date="1546573922000" expanded="true" signature="285:290" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22.class_initializer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+              <folding>
+                <marker date="1546574670000" expanded="true" signature="202:207" ph="..." />
+                <marker date="1546574670000" expanded="true" signature="408:413" ph="..." />
+                <marker date="1546574670000" expanded="true" signature="679:684" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/memo/tips_class.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <marker date="1546575327000" expanded="true" signature="76:81" ph="..." />
+                <marker date="1546575327000" expanded="true" signature="168:173" ph="..." />
+                <marker date="1546575327000" expanded="true" signature="274:474" ph="..." />
               </folding>
             </state>
           </provider>
@@ -197,12 +204,14 @@
         <option value="$PROJECT_DIR$/20.class_and_list.py" />
         <option value="$PROJECT_DIR$/03.operations.py" />
         <option value="$PROJECT_DIR$/21.class_inheritance.py" />
+        <option value="$PROJECT_DIR$/22.class_initializer.py" />
+        <option value="$PROJECT_DIR$/memo/tips_class.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="651" />
-    <option name="y" value="61" />
+    <option name="x" value="433" />
+    <option name="y" value="59" />
     <option name="width" value="776" />
     <option name="height" value="771" />
   </component>
@@ -233,6 +242,11 @@
               <item name="python3_trainning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3_trainning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python3_trainning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3_trainning" type="462c0819:PsiDirectoryNode" />
+              <item name="memo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -255,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.21.class_inheritance">
+  <component name="RunManager" selected="Python.tips_class">
     <configuration name="01.hello_world" type="PythonConfigurationType" factoryName="Python">
       <module name="python3_trainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,48 +283,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.hello_world.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17.pt_debugger" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_trainning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.pt_debugger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="18.list_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_trainning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18.list_in_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,21 +354,63 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="22.class_initializer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_trainning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22.class_initializer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tips_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_trainning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/memo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/memo/tips_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.01.hello_world" />
-      <item itemvalue="Python.17.pt_debugger" />
-      <item itemvalue="Python.18.list_in_list" />
       <item itemvalue="Python.19.pt_class" />
       <item itemvalue="Python.20.class_and_list" />
       <item itemvalue="Python.21.class_inheritance" />
+      <item itemvalue="Python.22.class_initializer" />
+      <item itemvalue="Python.tips_class" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tips_class" />
+        <item itemvalue="Python.22.class_initializer" />
         <item itemvalue="Python.21.class_inheritance" />
         <item itemvalue="Python.20.class_and_list" />
         <item itemvalue="Python.19.pt_class" />
-        <item itemvalue="Python.18.list_in_list" />
-        <item itemvalue="Python.17.pt_debugger" />
       </list>
     </recent_temporary>
   </component>
@@ -481,15 +495,22 @@
       <option name="project" value="LOCAL" />
       <updated>1546573062985</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="クラスの継承を追加">
+      <created>1546573934835</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1546573934835</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="651" y="61" width="776" height="771" extended-state="0" />
+    <frame x="433" y="59" width="776" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3231788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3231788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -497,7 +518,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3240059" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3240059" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,7 +542,8 @@
     <MESSAGE value="クラスの追加" />
     <MESSAGE value="累乗の演算子を追加" />
     <MESSAGE value="クラスとリストの応用サンプルを追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="クラスとリストの応用サンプルを追加" />
+    <MESSAGE value="クラスの継承を追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="クラスの継承を追加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -705,11 +727,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/21.class_inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="41" />
           <folding>
             <marker date="1546573922000" expanded="true" signature="167:172" ph="..." />
             <marker date="1546573922000" expanded="true" signature="285:290" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22.class_initializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <marker date="1546574670000" expanded="true" signature="202:207" ph="..." />
+            <marker date="1546574670000" expanded="true" signature="408:413" ph="..." />
+            <marker date="1546574670000" expanded="true" signature="679:684" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memo/tips_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <marker date="1546575327000" expanded="true" signature="76:81" ph="..." />
+            <marker date="1546575327000" expanded="true" signature="168:173" ph="..." />
+            <marker date="1546575327000" expanded="true" signature="274:474" ph="..." />
           </folding>
         </state>
       </provider>
