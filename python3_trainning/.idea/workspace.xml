@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc82f1b0-94d9-4215-87c6-ab9baa2430eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19.pt_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.class_and_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03.operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/03.operations.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,24 +22,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="23" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="23" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4396" />
-          <entry key="txt" value="80" />
+          <entry key="py" value="4848" />
+          <entry key="txt" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="80" />
-          <entry key="Python" value="4396" />
+          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="Python" value="4848" />
         </counts>
       </usages-collector>
     </session>
@@ -122,32 +124,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/19.pt_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="2" selection-end-line="5" />
               <folding>
-                <marker date="1546572377000" expanded="true" signature="149:154" ph="..." />
+                <marker date="1546572507000" expanded="true" signature="154:159" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04.pt_string.py">
+        <entry file="file://$PROJECT_DIR$/20.class_and_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="45">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <marker date="1546572887000" expanded="true" signature="146:151" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.pt_comparison.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03.operations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="41" />
+            <state relative-caret-position="319">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -170,7 +175,6 @@
         <option value="$PROJECT_DIR$/01.hello_world.py" />
         <option value="$PROJECT_DIR$/02.variables.py" />
         <option value="$PROJECT_DIR$/04.pt_string.py" />
-        <option value="$PROJECT_DIR$/03.operations.py" />
         <option value="$PROJECT_DIR$/05.pt_comparison.py" />
         <option value="$PROJECT_DIR$/06.logical_operations.py" />
         <option value="$PROJECT_DIR$/07.pt_branch.py" />
@@ -187,6 +191,8 @@
         <option value="$PROJECT_DIR$/17.pt_debugger.py" />
         <option value="$PROJECT_DIR$/18.list_in_list.py" />
         <option value="$PROJECT_DIR$/19.pt_class.py" />
+        <option value="$PROJECT_DIR$/20.class_and_list.py" />
+        <option value="$PROJECT_DIR$/03.operations.py" />
       </list>
     </option>
   </component>
@@ -245,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19.pt_class">
+  <component name="RunManager" selected="Python.20.class_and_list">
     <configuration name="01.hello_world" type="PythonConfigurationType" factoryName="Python">
       <module name="python3_trainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,27 +265,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.hello_world.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15.pt_scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3_trainning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.pt_scope.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,21 +357,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="20.class_and_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3_trainning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.class_and_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.01.hello_world" />
-      <item itemvalue="Python.15.pt_scope" />
       <item itemvalue="Python.16.args_and_return" />
       <item itemvalue="Python.17.pt_debugger" />
       <item itemvalue="Python.18.list_in_list" />
       <item itemvalue="Python.19.pt_class" />
+      <item itemvalue="Python.20.class_and_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20.class_and_list" />
         <item itemvalue="Python.19.pt_class" />
         <item itemvalue="Python.18.list_in_list" />
         <item itemvalue="Python.17.pt_debugger" />
         <item itemvalue="Python.16.args_and_return" />
-        <item itemvalue="Python.15.pt_scope" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546572197958</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="クラスの追加">
+      <created>1546572521080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1546572521080</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -487,7 +500,8 @@
     <MESSAGE value="関数の引数と返り値" />
     <MESSAGE value="デバッグ実行の追加" />
     <MESSAGE value="多重リストの追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="多重リストの追加" />
+    <MESSAGE value="クラスの追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="クラスの追加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -561,13 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.operations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -651,11 +658,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/19.pt_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="2" selection-end-line="5" />
           <folding>
-            <marker date="1546572377000" expanded="true" signature="149:154" ph="..." />
+            <marker date="1546572507000" expanded="true" signature="154:159" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20.class_and_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <marker date="1546572887000" expanded="true" signature="146:151" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
         </state>
       </provider>
     </entry>
