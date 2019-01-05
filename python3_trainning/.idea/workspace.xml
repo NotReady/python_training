@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc82f1b0-94d9-4215-87c6-ab9baa2430eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/23.class_call.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/memo/tips_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/memo/tips_class.py" afterDir="false" />
-    </list>
+    <list default="true" id="dc82f1b0-94d9-4215-87c6-ab9baa2430eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +29,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="7047" />
-          <entry key="txt" value="168" />
+          <entry key="txt" value="179" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="168" />
+          <entry key="PLAIN_TEXT" value="179" />
           <entry key="Python" value="7047" />
         </counts>
       </usages-collector>
@@ -143,8 +139,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/memo/tips_class.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="33">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <marker date="1546576180000" expanded="true" signature="76:81" ph="..." />
                 <marker date="1546576180000" expanded="true" signature="168:173" ph="..." />
@@ -517,7 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546575367466</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="callメソッドの追加">
+      <created>1546576217595</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1546576217595</updated>
+    </task>
+    <task id="LOCAL-00015" summary="callメソッドの追加">
+      <created>1546576246302</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1546576246302</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -525,7 +535,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3231788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3231788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -533,7 +543,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3240059" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3240059" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,7 +570,8 @@
     <MESSAGE value="クラスの継承を追加" />
     <MESSAGE value="クラスのイニシャライズを追加" />
     <MESSAGE value="クラスのまとめを追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="クラスのまとめを追加" />
+    <MESSAGE value="callメソッドの追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="callメソッドの追加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -778,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/memo/tips_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="33">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
             <marker date="1546576180000" expanded="true" signature="76:81" ph="..." />
             <marker date="1546576180000" expanded="true" signature="168:173" ph="..." />
