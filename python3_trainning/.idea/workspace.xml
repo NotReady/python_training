@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc82f1b0-94d9-4215-87c6-ab9baa2430eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../numpy_training/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy_training/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy_training/.idea/numpy_training.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy_training/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy_training/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numpy_training/01.array_basic_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy_training/03.array_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy_training/04.array_calculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numpy_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numpy_training/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
