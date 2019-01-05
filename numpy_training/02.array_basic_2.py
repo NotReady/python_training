@@ -1,5 +1,18 @@
 # coding: UTF-8
 
+# ---------------------------------------
+# @note numpyの配列基礎
+# numpy
+# .shape(ndarray)      配列モデルをタプルで取得
+# .size(ndarray)       要素数を取得
+# .zeros(numElement)   0.初期化したnumElement数の配列を作成
+# .ones(numElement)    1.初期化したnumElement数の配列を作成
+#
+# np.random 乱数クラス
+# .rand(numElement)     0.〜1.の乱数で初期化したnumElement数の配列を作成
+# .permutation(range)   rangeをシャッフル初期化した配列を作成
+# ---------------------------------------
+
 import numpy as np
 
 a = np.arange(42).reshape(6,7)
