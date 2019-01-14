@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6188f0b-2981-43a0-8955-4e81ab2c72b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="12d591a3-38a9-415c-9b98-b9b65c6c95e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../classification/.idea/classification.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classification/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../numpy_training/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numpy_training/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3_trainning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3_trainning/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1519983511">
+    <session id="-1628282546">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -22,25 +26,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="23" />
-          <entry key="py" value="2624" />
-          <entry key="txt" value="14" />
+          <entry key="py" value="4582" />
+          <entry key="txt" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="37" />
-          <entry key="Python" value="2624" />
+          <entry key="PLAIN_TEXT" value="71" />
+          <entry key="Python" value="4582" />
         </counts>
       </usages-collector>
     </session>
@@ -48,79 +51,64 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Iris_data.py">
+        <entry file="file://$PROJECT_DIR$/01.Variable_training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="14" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#17#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02.Iris_data_processing.py">
+        <entry file="file://$PROJECT_DIR$/02.Links_training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="45" column="20" selection-end-line="58" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
               <folding>
-                <element signature="e#33#47#0" expanded="true" />
+                <element signature="e#17#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.Chain_training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#17#31#0" expanded="true" />
+                <marker date="1547035777000" expanded="true" signature="292:415" ph="..." />
+                <marker date="1547035777000" expanded="true" signature="780:1005" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04.Fanctions_training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="e#17#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03.Iris_learn.py">
+        <entry file="file://$PROJECT_DIR$/05.Optimizer_training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="705">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
               <folding>
-                <marker date="1547448134000" expanded="true" signature="1032:1353" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06.Iris_serializer_save.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07.Iris_serializer_load.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-              <folding>
-                <element signature="e#34#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04.Iris_classification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="82" column="22" selection-end-line="95" />
-              <folding>
-                <element signature="e#34#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.Iris_trainer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="101" column="12" selection-end-line="111" />
-              <folding>
-                <element signature="e#34#48#0" expanded="true" />
-                <marker date="1547449557000" expanded="true" signature="1466:1528" ph="..." />
+                <element signature="e#17#35#0" expanded="true" />
+                <marker date="1547037297000" expanded="true" signature="273:274" ph="..." />
+                <marker date="1547037297000" expanded="true" signature="273:279" ph="..." />
               </folding>
             </state>
           </provider>
@@ -137,8 +125,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>prin</find>
+      <find>input_array</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>x</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -146,22 +138,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Iris_data.py" />
-        <option value="$PROJECT_DIR$/Iris_data_processing.py" />
-        <option value="$PROJECT_DIR$/Iris_learn.py" />
-        <option value="$PROJECT_DIR$/Iris_classification.py" />
-        <option value="$PROJECT_DIR$/Iris_trainer.py" />
-        <option value="$PROJECT_DIR$/Iris_serializer_save.py" />
-        <option value="$PROJECT_DIR$/Irix_serializer_load.py" />
-        <option value="$PROJECT_DIR$/Iris_serializer_load.py" />
+        <option value="$PROJECT_DIR$/01.Variable_training.py" />
+        <option value="$PROJECT_DIR$/02.Links_training.py" />
+        <option value="$PROJECT_DIR$/03.Chain_training.py" />
+        <option value="$PROJECT_DIR$/04.Fanctions_training.py" />
+        <option value="$PROJECT_DIR$/05.Optimizer_training.py" />
+        <option value="$PROJECT_DIR$/06.Chainer_hello_world.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="526" />
-    <option name="y" value="94" />
-    <option name="width" value="951" />
-    <option name="height" value="795" />
+    <option name="x" value="688" />
+    <option name="y" value="104" />
+    <option name="width" value="776" />
+    <option name="height" value="771" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -188,8 +178,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="classification" type="b2602c69:ProjectViewProjectNode" />
-              <item name="classification" type="462c0819:PsiDirectoryNode" />
+              <item name="chainer_training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chainer_training" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,9 +202,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Iris_serializer_load">
-    <configuration name="Iris_classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="classification" />
+  <component name="RunManager" selected="Python.06.Chainer_hello_world">
+    <configuration name="02.Links_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chainer_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -225,7 +215,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.Iris_classification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.Links_training.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,8 +224,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Iris_data_processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="classification" />
+    <configuration name="03.Chain_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chainer_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -246,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.Iris_data_processing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Chain_training.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,8 +245,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Iris_serializer_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="classification" />
+    <configuration name="04.Fanctions_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chainer_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -267,7 +257,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.Iris_serializer_load.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.Fanctions_training.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,8 +266,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Iris_serializer_save" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="classification" />
+    <configuration name="05.Optimizer_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chainer_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -288,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.Iris_serializer_save.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Optimizer_training.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,8 +287,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Iris_trainer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="classification" />
+    <configuration name="06.Chainer_hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chainer_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -309,7 +299,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Iris_trainer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.Chainer_hello_world.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,19 +309,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Iris_data_processing" />
-      <item itemvalue="Python.Iris_classification" />
-      <item itemvalue="Python.Iris_trainer" />
-      <item itemvalue="Python.Iris_serializer_save" />
-      <item itemvalue="Python.Iris_serializer_load" />
+      <item itemvalue="Python.02.Links_training" />
+      <item itemvalue="Python.03.Chain_training" />
+      <item itemvalue="Python.04.Fanctions_training" />
+      <item itemvalue="Python.05.Optimizer_training" />
+      <item itemvalue="Python.06.Chainer_hello_world" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Iris_serializer_load" />
-        <item itemvalue="Python.Iris_serializer_save" />
-        <item itemvalue="Python.Iris_trainer" />
-        <item itemvalue="Python.Iris_classification" />
-        <item itemvalue="Python.Iris_data_processing" />
+        <item itemvalue="Python.06.Chainer_hello_world" />
+        <item itemvalue="Python.05.Optimizer_training" />
+        <item itemvalue="Python.04.Fanctions_training" />
+        <item itemvalue="Python.03.Chain_training" />
+        <item itemvalue="Python.02.Links_training" />
       </list>
     </recent_temporary>
   </component>
@@ -340,28 +330,63 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6188f0b-2981-43a0-8955-4e81ab2c72b4" name="Default Changelist" comment="" />
-      <created>1547444844988</created>
+      <changelist id="12d591a3-38a9-415c-9b98-b9b65c6c95e1" name="Default Changelist" comment="" />
+      <created>1546673233908</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547444844988</updated>
+      <updated>1546673233908</updated>
     </task>
-    <task id="LOCAL-00001" summary="Irisデータの読み込み">
-      <created>1547445679603</created>
+    <task id="LOCAL-00001" summary="Variableを追加">
+      <created>1546952398861</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1547445679603</updated>
+      <updated>1546952398861</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="linksを追加">
+      <created>1546954747013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546954747013</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chainを追加">
+      <created>1547035806398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547035806398</updated>
+    </task>
+    <task id="LOCAL-00004" summary="functionsを追加">
+      <created>1547036212971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547036212971</updated>
+    </task>
+    <task id="LOCAL-00005" summary="optimizerの追加">
+      <created>1547039512126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547039512126</updated>
+    </task>
+    <task id="LOCAL-00006" summary="学習の基礎を追加">
+      <created>1547039545941</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547039545941</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="526" y="94" width="951" height="795" extended-state="0" />
+    <frame x="688" y="104" width="776" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20215054" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24900663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -369,8 +394,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31863442" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -383,82 +408,78 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Irisデータの読み込み" />
-    <option name="LAST_COMMIT_MESSAGE" value="Irisデータの読み込み" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/01.Iris_data.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Variableを追加" />
+    <MESSAGE value="linksを追加" />
+    <MESSAGE value="Chainを追加" />
+    <MESSAGE value="functionsを追加" />
+    <MESSAGE value="optimizerの追加" />
+    <MESSAGE value="学習の基礎を追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="学習の基礎を追加" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05.Iris_trainer.py">
+    <entry file="file://$PROJECT_DIR$/01.Variable_training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="101" column="12" selection-end-line="111" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
           <folding>
-            <element signature="e#34#48#0" expanded="true" />
-            <marker date="1547449557000" expanded="true" signature="1466:1528" ph="..." />
+            <element signature="e#17#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07.Iris_serializer_load.py">
+    <entry file="file://$PROJECT_DIR$/02.Links_training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
           <folding>
-            <element signature="e#34#48#0" expanded="true" />
+            <element signature="e#17#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Iris_serializer_save.py">
+    <entry file="file://$PROJECT_DIR$/03.Chain_training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Iris_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.Iris_classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="82" column="22" selection-end-line="95" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
           <folding>
-            <element signature="e#34#48#0" expanded="true" />
+            <element signature="e#17#31#0" expanded="true" />
+            <marker date="1547035777000" expanded="true" signature="292:415" ph="..." />
+            <marker date="1547035777000" expanded="true" signature="780:1005" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02.Iris_data_processing.py">
+    <entry file="file://$PROJECT_DIR$/04.Fanctions_training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="45" column="20" selection-end-line="58" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="31" />
           <folding>
-            <element signature="e#33#47#0" expanded="true" />
+            <element signature="e#17#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03.Iris_learn.py">
+    <entry file="file://$PROJECT_DIR$/06.Chainer_hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="326">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
-            <marker date="1547448134000" expanded="true" signature="1032:1353" ph="..." />
+            <element signature="e#17#31#0" expanded="true" />
+            <marker date="1547039051000" expanded="true" signature="593:1042" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Optimizer_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <element signature="e#17#35#0" expanded="true" />
+            <marker date="1547037297000" expanded="true" signature="273:274" ph="..." />
+            <marker date="1547037297000" expanded="true" signature="273:279" ph="..." />
           </folding>
         </state>
       </provider>
